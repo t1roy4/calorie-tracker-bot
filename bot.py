@@ -10,7 +10,7 @@ from database import (
 from ai import ask_ai_for_food
 
 # ВАЖНО: вставь сюда свой токен от @BotFather
-TOKEN = "8652333848:AAFwJ8PGjGrpj_jTCmMYL5Mnt2KfE_BGWug"
+TOKEN = ""
 
 bot = telebot.TeleBot(TOKEN)
 init_db()
